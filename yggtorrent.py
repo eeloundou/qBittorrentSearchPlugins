@@ -41,8 +41,8 @@ class yggtorrent(object):
     #
     # SET THESE VALUES!!
     #
-    username = "YOUR USERNAME"
-    password = "YOUR PASSWORD"
+    username = "eeloundou"
+    password = "Ee4988me@26"
    ###########################################################################
 
     url = 'https://www3.yggtorrent.do'
